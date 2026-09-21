@@ -27,6 +27,9 @@ embeddings = [
     "transformers>=4.40.0",
     "tiktoken>=0.7.0",
 ]
+litellm = [
+    "litellm>=1.89.0,<2.0.0",
+]
 apps = [
     "colorama>=0.4.6",
     "datasets>=2.0.0",
